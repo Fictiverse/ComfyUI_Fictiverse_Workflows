@@ -1069,7 +1069,7 @@
         "Node name for S&R": "CLIPTextEncode"
       },
       "widgets_values": [
-        "breathtaking ElRisitas dancing,extremely detailed,natural lighting,film grain, (white background)"
+        "breathtaking,extremely detailed,natural lighting,film grain"
       ],
       "color": "#232",
       "bgcolor": "#353"
@@ -3501,7 +3501,7 @@
         "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        "a woman holding a bow and arrow in front of a large fire filled black background"
+        "Welcome to the Fictiverse"
       ],
       "color": "#232",
       "bgcolor": "#353"
