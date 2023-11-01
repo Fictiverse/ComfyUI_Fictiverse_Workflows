@@ -1,7 +1,7 @@
 # ComfyUI_Fictiverse_Workflows
 ComfyUI Workflows
 
-Fast Clone : https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_AnimateDiff_Img2Vid_Clone.json
+Any to Video Clone Mask Control: [Workflow](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_AnimateDiff_Clone_MaskControl.json)
 
 | Init Image  | Result |
 | ------------- | ------------- |
