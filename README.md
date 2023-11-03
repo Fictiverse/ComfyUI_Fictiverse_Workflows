@@ -1,7 +1,9 @@
 # ComfyUI_Fictiverse_Workflows
 ComfyUI Workflows
 
-Any to Video Clone Mask Control: [Workflow](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_AnimateDiff_Clone_MaskControl.json)
+Any to Video Clone Mask Control
+Last Update : 03/11/2023
+[Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_AnimateDiff_Clone_MaskControl.json)
 
 | Init Image  | Result |
 | ------------- | ------------- |
