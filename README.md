@@ -18,5 +18,3 @@ Last Update : 22/11/2023
 | Init Image  | Result |
 | ------------- | ------------- |
 | ![InitImage](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/6d135dc0-6440-4dde-9c39-95912b34958b) | ![Result](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/53e0dd76-e14f-4636-947f-9cd553e5a3e8) |
-
-![images](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/6d135dc0-6440-4dde-9c39-95912b34958b)
