@@ -5,10 +5,7 @@ ComfyUI Workflows
 Last Update : 09/05/2024   
 [Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_LyriCrafter_F_01.json)
 
-| mp3  | Result |
-| ------------- | ------------- |
-| any mp3 | ![Result](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/29bc8fe4-3154-41f9-8376-740b0179677e)  |
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/111762798/329151653-29bc8fe4-3154-41f9-8376-740b0179677e.mp4
 
 ## Any to Video Clone Mask Control   
 Last Update : 20/11/2023   
