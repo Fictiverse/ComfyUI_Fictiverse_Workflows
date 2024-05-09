@@ -33,3 +33,10 @@ Last Update : 22/11/2023
 | ------------- | ------------- |
 | ![InitImage](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/15cacf85-2998-46fd-b5e6-6899e7946e09) | ![Result](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/assets/111762798/f57171f8-ae90-4705-867e-80903253bb52) |
 
+
+## Contact  
+[Discord](https://discord.gg/UYgRnhj8PR) - [Twitter](https://twitter.com/Fictiverse)
+
+## Tips
+- [Paypal](https://www.paypal.com/donate/?hosted_button_id=MSXYHF2E7YXZG) 
+- [ko-fi](https://ko-fi.com/fictiverse) 
