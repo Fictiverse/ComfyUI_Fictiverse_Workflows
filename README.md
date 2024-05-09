@@ -1,7 +1,15 @@
 # ComfyUI Fictiverse Workflows
 ComfyUI Workflows
 
-   
+## DynamiCrafter   
+Last Update : 09/05/2024   
+[Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_LyriCrafter_F_01.json)
+
+| mp3  | Result |
+| ------------- | ------------- |
+|  |  |
+
+
 ## Any to Video Clone Mask Control   
 Last Update : 20/11/2023   
 [Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_Fast_Clone_Img2Vid_MaskControl.json)
