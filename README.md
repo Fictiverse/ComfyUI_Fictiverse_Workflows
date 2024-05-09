@@ -3,7 +3,7 @@ ComfyUI Workflows
 
 ## LyriCrafter - Create a video from a mp3 audio   
 Last Update : 09/05/2024   
-[Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_LyriCrafter_F_01.json)
+[Download](https://github.com/Fictiverse/ComfyUI_Fictiverse_Workflows/blob/main/Fictiverse_LyriCrafter_F_02.json)
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/111762798/329151653-29bc8fe4-3154-41f9-8376-740b0179677e.mp4
 
